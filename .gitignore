@@ -1,8 +1,14 @@
 venv/
 __pycache__/
 .ipynb_checkpoints/
-models/mnist_model.h5
+#models/mnist_model.h5
+models/history.npy
 *.zip
-models/*.h5
+*.npz
+*.npy
+*.py[cod]
+# models/*.h5
 models/*.npy
 .DS_Store
+.vscode/
+*.idea/
