@@ -10,7 +10,7 @@ st.set_page_config(page_title="MNIST Digit Classifier", layout="centered")
 
 API_URL = "http://127.0.0.1:5000"
 
-st.title("🧠 MNIST Digit Classifier")
+st.title("MNIST Digit Classifier")
 st.write("Upload a handwritten digit image (28x28 grayscale) to predict the number.")
 
 # Section: Predict single image
@@ -60,7 +60,7 @@ if st.button("Retrain Model"):
 st.markdown("---")
 
 # Section: Upload New ZIP & Retrain
-st.header("📦 Upload New Images & Retrain")
+st.header("Upload New Images & Retrain")
 
 uploaded_zip = st.file_uploader("Upload ZIP file of new digit data", type=["zip"])
 
