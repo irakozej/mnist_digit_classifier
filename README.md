@@ -4,6 +4,8 @@ This project demonstrates the complete Machine Learning lifecycle using **image 
 
 ---
 
+Link to the youtbe video: https://youtu.be/-C2aJPuVUQU
+
 ##  Objective
 
 To demonstrate the **end-to-end ML process** on **non-tabular image data**, covering:
