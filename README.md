@@ -1,10 +1,10 @@
-# 🧠 MNIST Digit Classifier (End-to-End ML Pipeline)
+# MNIST Digit Classifier (End-to-End ML Pipeline)
 
 This project demonstrates the complete Machine Learning lifecycle using **image classification** on the MNIST dataset. It includes offline model training, real-time prediction via an API + UI, model retraining, performance visualizations, cloud deployment readiness, and load testing capabilities.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To demonstrate the **end-to-end ML process** on **non-tabular image data**, covering:
 
@@ -19,12 +19,12 @@ To demonstrate the **end-to-end ML process** on **non-tabular image data**, cove
   
 ---
 
-## 🗂️ Directory Structure
+## Directory Structure
 
 
 ---
 
-## 🧪 Features Implemented
+##  Features Implemented
 
 | Feature                                 | Status ✅ |
 |----------------------------------------|-----------|
@@ -40,7 +40,7 @@ To demonstrate the **end-to-end ML process** on **non-tabular image data**, cove
 
 ---
 
-## 🔬 Model Evaluation Results
+## Model Evaluation Results
 
 | Metric        | Score    |
 |---------------|----------|
@@ -61,7 +61,7 @@ To demonstrate the **end-to-end ML process** on **non-tabular image data**, cove
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 1️⃣ **Class Distribution**  
 ![Class Distribution](notebook/visualizations/class_distribution.png)
@@ -74,7 +74,7 @@ To demonstrate the **end-to-end ML process** on **non-tabular image data**, cove
 
 ---
 
-## 🖥️ UI Functionalities
+## UI Functionalities
 
 | UI Section                     | Functionality                                  |
 |-------------------------------|-----------------------------------------------|
@@ -104,7 +104,6 @@ To demonstrate the **end-to-end ML process** on **non-tabular image data**, cove
 
 ---
 
-## 🚀 Deployment Guide
 
 ### ✅ Setup Locally
 
