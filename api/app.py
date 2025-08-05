@@ -16,14 +16,7 @@ from src.model_loader import get_model, reload_model
 
 app = Flask(__name__)
 
-MODEL_PATH = "models/mnist_model.h5"
 UPLOAD_DIR = "data/new_upload"
-
-# ✅ Automatically retrain model if it's missing (important for Render)
-if not os.path.exists(MODEL_PATH):
-    print("⚠️ Model not found. Starting retraining...")
-    os.makedirs("models", exist_ok=True)
-    retrain_model()
 
 # Helper: preprocess uploaded image
 def preprocess_image(image_bytes):
