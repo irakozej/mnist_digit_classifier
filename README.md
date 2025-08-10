@@ -5,6 +5,7 @@ This project demonstrates the complete Machine Learning lifecycle using **image 
 ---
 
 Link to the youtbe video: https://youtu.be/-C2aJPuVUQU
+Link to flask API: https://mnist-digit-classifier-ucpk.onrender.com
 
 ##  Objective
 
